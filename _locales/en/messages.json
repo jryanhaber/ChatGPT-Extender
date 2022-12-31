@@ -8,7 +8,7 @@
     "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name. "
   },
   "appDesc": {
-    "message": "Our mission is to extend the capacities that chatGPT already has to have a positive impact on the world.  We are doing this by supporting its capacities to impact your life.  This tool will allow you to capture goals and then in one click, configure chatGPT to coach you on each goal one at a time ",
+    "message": "Get interdisciplinary coaching from chatGPT to support you in achieving any goal, big or small.",
     "description": "The description of the application, displayed in the web store."
   },
   "placeholder": {
