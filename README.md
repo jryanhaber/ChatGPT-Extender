@@ -5,9 +5,7 @@
 # How to use this app
 
 - Save ideas about what goals you would like to pursue anytime, then go to https://chat.openai.com/, open a new chat, open the extension, and click on the eye of any of your goals to seek help from ChatGPT. Sign in if needed.
-
-Currently in version 1.0.2 this will do the following. It will configure ChatGPT, with just that one click the following will happen
-
+- Currently in version 1.0.2 this will do the following. It will configure ChatGPT, with just that one click the following will happen
 - ChatGPT will be configured as a life coach trained in every method it can get its hands on and will start coaching you, most often one step at a time through his selected method.
 - ChatGPT will switch methods mid process on demand with the reply "switch"
 - ChatGPT will remember which methods you liked the best and will adapt to select those from its randomly selected methods more often slowly, in other words, it is programmed to get to know you and what works for you.
@@ -27,14 +25,18 @@ The most likely next steps for the development of this tool will include
 - The ability to check in in relation to your goals and have chatGPT be aware of the progress or challenges
 - ✔️ this is partly complete. ChatGPT will account for progress and challenges as you go now, in the future I aim to enable you to add check ins and challenges regularly so that chatGPT will be primed with this information for greater continuity.
 
-## Overarching immediately next objective
-
-## Next Phase of how this will be done
-
 ### Objectives coming up next
 
 - enable the user to move the extension around
 - enable zooming into a goal to trigger that goal
+
+## Overarching immediately next objective
+
+... TBD
+
+## Next Phase of how this will be done
+
+... TBD
 
 Credits
 
@@ -42,11 +44,11 @@ A fully functional prototyope was built in 8 hrs by Jonathan Haber B.A., a Full 
 
 ## About Jonathan Haber
 
-Primary Portfolio: http://portfolio.synthesisdev.com/
-App Development Services: http://synthesisrecruiting.com/apps/
-Web Design Services: http://synthesisrecruiting.com/apps/professional-website-development.html
-Linked In: https://www.linkedin.com/in/jryanhaber
-Resume Download: https://docs.google.com/document/d/1RebKHgCtAFS65yb-HxOpx5Hd1V17aXBkyu2MRs3LXso/edit?usp=sharing
+- Primary Portfolio: http://portfolio.synthesisdev.com/
+- App Development Services: http://synthesisrecruiting.com/apps/
+- Web Design Services: http://synthesisrecruiting.com/apps/professional-website-development.html
+- Linked In: https://www.linkedin.com/in/jryanhaber
+- Resume Download: https://docs.google.com/document/d/1RebKHgCtAFS65yb-HxOpx5Hd1V17aXBkyu2MRs3LXso/edit?usp=sharing
 
 ## Boilerplate starting points
 
