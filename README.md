@@ -43,7 +43,7 @@ The most likely next steps for the development of this tool will include
 
 ... TBD
 
-### Installation Guide
+# Installation Guide
 
 - Go to this page https://github.com/jryanhaber/ChatGPT-Extender- 
 - Click the green code button 
@@ -58,14 +58,15 @@ The most likely next steps for the development of this tool will include
 - ![image](https://user-images.githubusercontent.com/167328/210126402-7b85526b-a8bc-486a-8cad-9bef63401536.png)
 - and select the file you downloaded. 
 
+# How to Use
 Now its installed.  To use it you can click the extension anytime to add goals into it. 
-Then go to https://chat.openai.com/
-click new chat ( sign in if needed ) 
-![image](https://user-images.githubusercontent.com/167328/210126416-bac9c566-a349-44ca-b15b-d29914a7c589.png)
-open ChatGPT Extender with the bottom right Plus sign 
-![image](https://user-images.githubusercontent.com/167328/210126426-d5991b01-d9b6-45ea-bb10-10f73bd78154.png)
-and click on the eye next to any goal to start 
-![image](https://user-images.githubusercontent.com/167328/210126430-daffb448-4d9f-4225-8a69-835d3140476a.png)
+- Then go to https://chat.openai.com/
+- click new chat ( sign in if needed ) 
+- ![image](https://user-images.githubusercontent.com/167328/210126416-bac9c566-a349-44ca-b15b-d29914a7c589.png)
+- open ChatGPT Extender with the bottom right Plus sign 
+- ![image](https://user-images.githubusercontent.com/167328/210126426-d5991b01-d9b6-45ea-bb10-10f73bd78154.png)
+- and click on the eye next to any goal to start 
+- ![image](https://user-images.githubusercontent.com/167328/210126430-daffb448-4d9f-4225-8a69-835d3140476a.png)
 
 Known Weaknesses
  - you currently need to open the menu from the bottom left plus sign to get the eye link to work
