@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/167328/210121907-e2f2411a-8c35-47a2-b67a-2764c473ce20.png" width=500 align=right>
 <img src="https://user-images.githubusercontent.com/167328/210121940-1d4c0491-3cda-45fe-91b9-660a6a0759d0.png" width=500 align=right>
 
-
+Installation Guide - check the bottom of this page. 
 
 # How to use this app
 
@@ -42,6 +42,35 @@ The most likely next steps for the development of this tool will include
 ## Next Phase of how this will be done
 
 ... TBD
+
+Installation Guide
+
+Go to this page https://github.com/jryanhaber/ChatGPT-Extender- 
+Click the green code button 
+![image](https://user-images.githubusercontent.com/167328/210126346-cd579dfd-6a71-43c5-b7fb-3f4c5003f93b.png)
+Click download
+![image](https://user-images.githubusercontent.com/167328/210126354-033a071c-f2ce-4554-a445-4fd5ffcdfb67.png)
+Find the downloaded file and double click to expand
+Open Chrome, then the extensions panel ( menu: window / extensions ) or type this url chrome://extensions/
+turn on developer mode on the top right 
+![image](https://user-images.githubusercontent.com/167328/210126395-6000414e-8170-43ff-b4e1-22ccf17ffe81.png)
+click load unpacked on the top left
+![image](https://user-images.githubusercontent.com/167328/210126402-7b85526b-a8bc-486a-8cad-9bef63401536.png)
+and select the file you downloaded. 
+
+Now its installed.  To use it you can click the extension anytime to add goals into it. 
+Then go to https://chat.openai.com/
+click new chat ( sign in if needed ) 
+![image](https://user-images.githubusercontent.com/167328/210126416-bac9c566-a349-44ca-b15b-d29914a7c589.png)
+open ChatGPT Extender with the bottom right Plus sign 
+![image](https://user-images.githubusercontent.com/167328/210126426-d5991b01-d9b6-45ea-bb10-10f73bd78154.png)
+and click on the eye next to any goal to start 
+![image](https://user-images.githubusercontent.com/167328/210126430-daffb448-4d9f-4225-8a69-835d3140476a.png)
+
+Known Weaknesses
+ - you currently need to open the menu from the bottom left plus sign to get the eye link to work
+ - It currently loads that bottom right plus sign on any site ( will be removed / made specific to just openai.com ) 
+
 
 Credits
 
