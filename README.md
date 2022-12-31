@@ -14,11 +14,11 @@ Currently in version 1.0.2 this will do the following. It will configure ChatGPT
 
 # Recent Feature Completions
 
-✔️ The ability to prime chatGPT to coach you in different ways
-✔️ Interdisciplinary methodologies for coaching styles
-✔️ working from boilerplate code, create an app that will accept the goals of the user
-✔️ Enable a user to easily and effortlessly get help from ChatGPT in relation to a goal they are working towards.
-✔️ Then add a button for the user to be able to click to automatically prime chatGPT with the request for coaching
+- ✔️ The ability to prime chatGPT to coach you in different ways
+- ✔️ Interdisciplinary methodologies for coaching styles
+- ✔️ working from boilerplate code, create an app that will accept the goals of the user
+- ✔️ Enable a user to easily and effortlessly get help from ChatGPT in relation to a goal they are working towards.
+- ✔️ Then add a button for the user to be able to click to automatically prime chatGPT with the request for coaching
 
 # Future Iterations
 
