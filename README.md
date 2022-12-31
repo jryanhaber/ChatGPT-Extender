@@ -2,8 +2,8 @@
 
 <h1 align="center">Chat GPT 3 Extender</h1>
 
-![image](https://user-images.githubusercontent.com/167328/210121907-e2f2411a-8c35-47a2-b67a-2764c473ce20.png){:width="500px"}
-![image](https://user-images.githubusercontent.com/167328/210121940-1d4c0491-3cda-45fe-91b9-660a6a0759d0.png){:width="500px"}
+<img src="https://user-images.githubusercontent.com/167328/210121907-e2f2411a-8c35-47a2-b67a-2764c473ce20.png" width=500 align=right>
+<img src="https://user-images.githubusercontent.com/167328/210121940-1d4c0491-3cda-45fe-91b9-660a6a0759d0.png" width=500 align=right>
 
 
 
