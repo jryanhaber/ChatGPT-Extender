@@ -1,0 +1,58 @@
+{
+  "appName": {
+    "message": "ChatGPT Extender",
+    "description": ""
+  },
+  "appShortName": {
+    "message": "ChatGPT Extender",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the extension's name. "
+  },
+  "appDesc": {
+    "message": "Our mission is to extend the capacities that chatGPT already has to have a positive impact on the world.  We are doing this by supporting its capacities to impact your life.  This tool will allow you to capture goals and then in one click, configure chatGPT to coach you on each goal one at a time ",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "placeholder": {
+    "message": "Set your goals here",
+    "description": "Input placeholder"
+  },
+  "deleteAll": {
+    "message": "Delete all",
+    "description": "Text on button"
+  },
+  "deleteConfirmation": {
+    "message": "Are you sure you want to delete all goals?",
+    "description": "Message in the confirmation dialog"
+  },
+  "showDone": {
+    "message": "Show done",
+    "description": "Text on button"
+  },
+  "hideDone": {
+    "message": "Hide done",
+    "description": "Text on button"
+  },
+  "cancel": {
+    "message": "Cancel",
+    "description": "Text on button"
+  },
+  "darkMode": {
+    "message": "Dark mode",
+    "description": "Dark mode settings label"
+  },
+  "buttonSize": {
+    "message": "Button size",
+    "description": "Button size settings label"
+  },
+  "small": {
+    "message": "Small",
+    "description": "Button size option"
+  },
+  "medium": {
+    "message": "Medium",
+    "description": "Button size option"
+  },
+  "large": {
+    "message": "Large",
+    "description": "Button size option"
+  }
+}

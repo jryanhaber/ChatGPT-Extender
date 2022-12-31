@@ -1,0 +1,58 @@
+{
+  "appName": {
+    "message": "Framer - минималистичный ToDo лист",
+    "description": "Название расширения для магазина расширений."
+  },
+  "appShortName": {
+    "message": "Framer",
+    "description": "Короткая (рекомендовано максимум 12 символов) версия названия расширения."
+  },
+  "appDesc": {
+    "message": "Простой ToDo лист доступный прямо со страницы.",
+    "description": "Описание расширения, отображаемое в магазине расширений."
+  },
+  "placeholder": {
+    "message": "Что вы собираетесь сделать?",
+    "description": "Placeholder в инпуте"
+  },
+  "deleteConfirmation": {
+    "message": "Вы действительно хотите удалить все?",
+    "description": "Сообщение в окне подтверждения"
+  },
+  "deleteAll": {
+    "message": "Удалить все",
+    "description": "Текст на кнопке"
+  },
+  "showDone": {
+    "message": "Показать все",
+    "description": "Текст на кнопке"
+  },
+  "hideDone": {
+    "message": "В процессе",
+    "description": "Текст на кнопке"
+  },
+  "cancel": {
+    "message": "Отмена",
+    "description": "Текст на кнопке"
+  },
+  "darkMode": {
+    "message": "Темная тема",
+    "description": "Пункт настроек"
+  },
+  "buttonSize": {
+    "message": "Размер кнопки",
+    "description": "Пункт настроек"
+  },
+  "small": {
+    "message": "Маленькая",
+    "description": "Вариант размера кнопки"
+  },
+  "medium": {
+    "message": "Средняя",
+    "description": "Вариант размера кнопки"
+  },
+  "large": {
+    "message": "Большая",
+    "description": "Вариант размера кнопки"
+  }
+}
