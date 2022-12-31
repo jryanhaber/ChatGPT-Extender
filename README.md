@@ -43,20 +43,20 @@ The most likely next steps for the development of this tool will include
 
 ... TBD
 
-Installation Guide
+### Installation Guide
 
-Go to this page https://github.com/jryanhaber/ChatGPT-Extender- 
-Click the green code button 
-![image](https://user-images.githubusercontent.com/167328/210126346-cd579dfd-6a71-43c5-b7fb-3f4c5003f93b.png)
-Click download
-![image](https://user-images.githubusercontent.com/167328/210126354-033a071c-f2ce-4554-a445-4fd5ffcdfb67.png)
-Find the downloaded file and double click to expand
-Open Chrome, then the extensions panel ( menu: window / extensions ) or type this url chrome://extensions/
-turn on developer mode on the top right 
-![image](https://user-images.githubusercontent.com/167328/210126395-6000414e-8170-43ff-b4e1-22ccf17ffe81.png)
-click load unpacked on the top left
-![image](https://user-images.githubusercontent.com/167328/210126402-7b85526b-a8bc-486a-8cad-9bef63401536.png)
-and select the file you downloaded. 
+- Go to this page https://github.com/jryanhaber/ChatGPT-Extender- 
+- Click the green code button 
+- ![image](https://user-images.githubusercontent.com/167328/210126346-cd579dfd-6a71-43c5-b7fb-3f4c5003f93b.png)
+- Click download
+- ![image](https://user-images.githubusercontent.com/167328/210126354-033a071c-f2ce-4554-a445-4fd5ffcdfb67.png)
+- Find the downloaded file and double click to expand
+- Open Chrome, then the extensions panel ( menu: window / extensions ) or type this url chrome://extensions/
+- turn on developer mode on the top right 
+- ![image](https://user-images.githubusercontent.com/167328/210126395-6000414e-8170-43ff-b4e1-22ccf17ffe81.png)
+- click load unpacked on the top left
+- ![image](https://user-images.githubusercontent.com/167328/210126402-7b85526b-a8bc-486a-8cad-9bef63401536.png)
+- and select the file you downloaded. 
 
 Now its installed.  To use it you can click the extension anytime to add goals into it. 
 Then go to https://chat.openai.com/
