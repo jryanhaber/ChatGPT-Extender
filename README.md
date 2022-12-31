@@ -2,6 +2,9 @@
 
 <h1 align="center">Chat GPT 3 Extender</h1>
 
+![image](https://user-images.githubusercontent.com/167328/210121907-e2f2411a-8c35-47a2-b67a-2764c473ce20.png)
+
+
 # How to use this app
 
 - Save ideas about what goals you would like to pursue anytime, then go to https://chat.openai.com/, open a new chat, open the extension, and click on the eye of any of your goals to seek help from ChatGPT. Sign in if needed.
