@@ -30,6 +30,16 @@ The most likely next steps for the development of this tool will include
 - The ability to check in in relation to your goals and have chatGPT be aware of the progress or challenges
 - ✔️ this is partly complete. ChatGPT will account for progress and challenges as you go now, in the future I aim to enable you to add check ins and challenges regularly so that chatGPT will be primed with this information for greater continuity.
 
+### Capabilities
+
+ - This app will enable you to capture goals into it from anywhere, then trigger coaching in one click if you are on the chatGPT webpage for any of your goals. 
+
+### Known Limitations
+
+ - this was created within the parameters of manifestv2 for chrome extensions, and chrome now requires a refactor to v3 in order to allow formal submission to the app store.  This appears to require a substantial refactor. 
+ - instant coaching functionality was turned on for chatGPT3's site when triggered with the eye icon on the main popup opened with the bottom left menu, but not yet triggered by the menu revealed by clicking on the chrome toolbar extension icon.  That icon should be changed to open the main menu from now on. 
+
+
 ### Objectives coming up next
 
 - enable the user to move the extension around
